@@ -1,3 +1,0 @@
-include ':gatewayLib'
-include ':app'
-rootProject.name = "aidlServer"
